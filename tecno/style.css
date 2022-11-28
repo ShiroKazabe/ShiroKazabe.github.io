@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+header{
+    width: 60%;
+    height: 400px;
+    float: left;
+}
+section{
+    width: 35%;
+    height: 400px;
+    float: right;
+}
+nav{
+    width: 60%;
+    height: 400px;
+    float: right;
+}
+aside{
+    width: 35%;
+    height: 400px;
+    float: left;
+}
